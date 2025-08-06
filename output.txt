@@ -1,0 +1,1 @@
+{'sequence': 'Paralympian Ali Truwit lost her leg but still inspires us all.', 'labels': ['empowering', 'inspiration porn', 'neutral'], 'scores': [0.9826331734657288, 0.012651420198380947, 0.00471540866419673]}
